@@ -1,2 +1,5 @@
 # hello-world
-Test repository
+
+Hi there!
+
+I am Sathish and I am a curious learner stepping into the programming world.
